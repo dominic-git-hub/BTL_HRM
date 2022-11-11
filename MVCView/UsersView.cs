@@ -16,6 +16,7 @@ namespace WinFormMVC.View
         public UsersView()
         {
             InitializeComponent();
+            Console.WriteLine("Khoi tao project");
         }
 
         UsersController _controller;

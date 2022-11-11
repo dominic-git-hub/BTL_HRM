@@ -17,6 +17,11 @@ namespace WinFormMVC.View
         {
             InitializeComponent();
             Console.WriteLine("Khoi tao project");
+            
+            // Day la resign
+            Console.WriteLine("Resign");
+            
+            
         }
 
         UsersController _controller;

@@ -21,6 +21,7 @@ namespace WinFormMVC.View
             // Day la resign
             Console.WriteLine("Resign");
             
+            
         }
 
         UsersController _controller;
